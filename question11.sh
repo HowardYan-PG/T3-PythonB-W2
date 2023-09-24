@@ -14,4 +14,3 @@ git stash
 git checkout main
 
 
-git stash apply
